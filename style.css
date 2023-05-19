@@ -1,0 +1,267 @@
+#nav3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#nav2{
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#nav1{
+    justify-content: end;
+}
+#port1{
+    
+    margin-top: 8%;
+    padding: 8%;
+}
+#b1{   
+    background: rgba(76, 44, 192, 0.3);
+border-radius: 6px 123px 0px 123px;
+width: 30%;
+position: absolute;
+left: 60%;
+top: 23%;
+height: 400px;
+}
+
+@media only screen and (max-width: 500px) {
+#b1{
+    display: none
+}
+.html__icon-style{
+    font-size: 40px
+}
+#fa2{
+    font-size: 20px
+}
+#col4{
+    font-size: 32px
+}
+#fc1{
+    font-size: 40px
+}
+#fc2{
+    font-size: 20px
+}
+#col5{
+    font-size: 32px
+}
+#but1{
+    margin-right: 50px
+}
+#d2{
+    font-size: 32px
+}
+#contact{
+    margin-right: 60px
+}
+#contact1{
+    margin-right: 70px
+}
+#contact2{
+    margin-right: 60px
+}
+#log1{
+    font-size: 35px   
+}
+#cont{
+    margin-right: 50px
+}
+#nav3{
+    margin-left: 20px
+}
+#port2{
+    font-size: 40px
+}
+
+}
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto+Slab:wght@700&display=swap');
+
+#port2{
+    
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 60px;
+line-height: 70px;
+/* or 117% */
+
+
+color: #4C2CC0;
+}
+@media(max-width:400px){
+    #port1{
+        margin-top: 10px;
+        padding: 10px;
+        /* font-size: xx-small; */
+        font-size: xx-small;
+        line-height: 10px;
+        position: relative;
+    }
+}
+#port3{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+}
+/* #b1{ */
+    /* background: rgba(76, 44, 192, 0.3);
+    border-radius: 6px 123px 0px 123px;
+    width: 30%;
+    position: absolute;
+    left: 60%;
+    top: 23%;
+    height: 400px; */
+    /* display: none; */
+/* } */
+
+#b2{
+    box-sizing: border-box;
+    position: relative;
+    width: 100%;
+    height: 400px;
+    left: -5%;
+    top: 7%;
+
+    /* background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)); */
+    border: 1px solid black;
+    /* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
+    border-radius: 6px 123px 9px 123px;
+}
+#b3{
+    background: #4C2CC0;
+    box-shadow: 0px 18px 30px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    color: white;
+}
+#b4{
+    border: 2px solid #4C2CC0;
+    background-color: white;
+    color: #4C2CC0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto+Slab:wght@700&display=swap');
+#col1{
+    font-family: 'Poppins', sans-serif;
+    font-style: bold;
+    font-weight: 500;
+    font-size: 50px;
+    margin-left: 4%;
+    padding-left: 4%;
+    color: #4C2CC0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto+Slab:wght@700&display=swap');
+#col2{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 4%;
+    padding-left: 2%;
+    font-size: large;
+    
+}
+#col3{
+    margin-left: 10%;
+    border: 2px solid #4C2CC0;
+    background-color: white;
+    color: #4C2CC0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto+Slab:wght@700&display=swap');
+#col4{
+    font-family: 'Poppins', sans-serif;
+    font-style: bold;
+    font-weight: 500;
+    font-size: 50px;
+    text-align: center;
+    padding: 4%;
+    color: #4C2CC0;
+}
+
+#pro1{
+    color: black;
+    margin: 2% 8% 8% 8%; 
+    height: 30px; 
+}
+#fa1{
+    margin-left: 8%;
+    color: gray;
+}
+#fa2{
+    margin-left: 8%;
+    color: black;
+}
+#fb1{
+    margin-left: 8%;
+    color: gray;
+}
+#fb2{
+    margin-left: 8%;
+    color: black;
+}
+#fb3{
+    color: black;
+    margin: 2% 2% 4% 1%; 
+    height: 30px;
+}
+#fc1{
+    margin-left: 8%;
+    color: gray;
+    align-items: center;
+}
+#fc2{
+    margin-left: 8%;
+    color: black;
+    /* align-content: center;  */
+}
+#fc3{
+    margin: 2% 8% 8% 8%;
+    height: 30px;
+    /* align-content: center; */
+}
+#dr1{
+    color: black;
+    height: 50px;
+    margin-left: 8%;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto+Slab:wght@700&display=swap');
+#dr2{
+    font-family: 'Poppins', sans-serif;
+    font-style: bold;
+    font-weight: 500;
+    font-size: 50px;
+    text-align: center;
+    padding: 4%;
+    color: #4C2CC0;
+}
+#pre1{
+    height: 30px;
+    margin-right: 4%;
+    color: black;
+}
+#pre2{
+    height: 30px;
+    margin-right: 4%;
+}
+#cont{
+    text-align: center;
+    margin-left: 14%;
+    /* padding: 4%; */
+    /* margin-left:%; */
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto+Slab:wght@700&display=swap');
+#col5{
+    font-family: 'Poppins', sans-serif;
+    font-style: bold;
+    font-weight: 500;
+    font-size: 50px;
+    text-align: center;
+    padding: 4%;
+    color: #4C2CC0;
+}
+#log1{
+    color: #4C2CC0;
+    margin-left: 13%;
+}
+
+
+
+
